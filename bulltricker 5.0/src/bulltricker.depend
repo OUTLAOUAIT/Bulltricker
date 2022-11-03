@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1579011472 source:c:\users\hp\desktop\bulltricker\bulltricker\board.c
+	"pieces.h"
+
+1578665882 source:c:\users\hp\desktop\bulltricker\bulltricker\dame.c
+
+1579011472 source:c:\users\hp\desktop\bulltricker\bulltricker\king.c
+	"pieces.h"
+
+1578832850 source:c:\users\hp\desktop\bulltricker\bulltricker\pion.c
+	"pieces.h"
+
+1575587877 c:\users\hp\desktop\bulltricker\bulltricker\board.h
+
+1579193158 c:\users\hp\desktop\bulltricker\bulltricker\pieces.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575584593 source:c:\users\hp\desktop\bulltricker\bulltricker\pieces.c
+
+1575587166 c:\users\hp\desktop\bulltricker\bulltricker\pion.h
+	"pieces.h"
+
+1575589519 c:\users\hp\desktop\bulltricker\bulltricker\dame.h
+	"pieces.h"
+
+1575589442 c:\users\hp\desktop\bulltricker\bulltricker\king.h
+	"pieces.h"
+
+1579193158 source:c:\users\hp\desktop\bulltricker\bulltricker\main.c
+
+1579010943 source:c:\users\hp\desktop\bulltricker\bulltricker\o.c
+	"pieces.h"
+
+1579199677 source:c:\users\hp\desktop\bulltricker\bulltricker\graphique.c
+	<SDL.h>
+	<stdio.h>
+	<stdlib.h>
+
+1580008332 source:c:\c&c++&java\c&c++\bulltricker\bulltricker\src\board.c
+	"pieces.h"
+
+1580009667 c:\c&c++&java\c&c++\bulltricker\bulltricker\src\pieces.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+
+1578665882 source:c:\c&c++&java\c&c++\bulltricker\bulltricker\src\dame.c
+
+1580008332 source:c:\c&c++&java\c&c++\bulltricker\bulltricker\src\graphique.c
+	"pieces.h"
+
+1580009667 source:c:\c&c++&java\c&c++\bulltricker\bulltricker\src\king.c
+	"pieces.h"
+
+1579749878 source:c:\c&c++&java\c&c++\bulltricker\bulltricker\src\main.c
+	"pieces.h"
+
+1579964967 source:c:\c&c++&java\c&c++\bulltricker\bulltricker\src\o.c
+	"pieces.h"
+
+1580009014 source:c:\c&c++&java\c&c++\bulltricker\bulltricker\src\pion.c
+	"pieces.h"
+
+1580287491 source:c:\users\hp\desktop\bulltricker\src\board.c
+	"pieces.h"
+
+1580293923 c:\users\hp\desktop\bulltricker\src\pieces.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+
+1578665882 source:c:\users\hp\desktop\bulltricker\src\dame.c
+
+1580290639 source:c:\users\hp\desktop\bulltricker\src\graphique.c
+	"pieces.h"
+
+1580290527 source:c:\users\hp\desktop\bulltricker\src\king.c
+	"pieces.h"
+
+1580289133 source:c:\users\hp\desktop\bulltricker\src\main.c
+	"pieces.h"
+
+1580290334 source:c:\users\hp\desktop\bulltricker\src\o.c
+	"pieces.h"
+
+1580290325 source:c:\users\hp\desktop\bulltricker\src\pion.c
+	"pieces.h"
+
+1580307896 source:c:\users\hp\desktop\bulltricker 5.0\src\board.c
+	"pieces.h"
+
+1580308024 c:\users\hp\desktop\bulltricker 5.0\src\pieces.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+
+1578665882 source:c:\users\hp\desktop\bulltricker 5.0\src\dame.c
+
+1580305611 source:c:\users\hp\desktop\bulltricker 5.0\src\graphique.c
+	"pieces.h"
+
+1580290527 source:c:\users\hp\desktop\bulltricker 5.0\src\king.c
+	"pieces.h"
+
+1580307896 source:c:\users\hp\desktop\bulltricker 5.0\src\main.c
+	"pieces.h"
+
+1580290334 source:c:\users\hp\desktop\bulltricker 5.0\src\o.c
+	"pieces.h"
+
+1580305611 source:c:\users\hp\desktop\bulltricker 5.0\src\pion.c
+	"pieces.h"
+
+1580309427 source:c:\users\hp\desktop\projetc\bulltricker 5.0\src\board.c
+	"pieces.h"
+
+1580316056 c:\users\hp\desktop\projetc\bulltricker 5.0\src\pieces.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+
+1578665882 source:c:\users\hp\desktop\projetc\bulltricker 5.0\src\dame.c
+
+1580320753 source:c:\users\hp\desktop\projetc\bulltricker 5.0\src\graphique.c
+	"pieces.h"
+
+1580290527 source:c:\users\hp\desktop\projetc\bulltricker 5.0\src\king.c
+	"pieces.h"
+
+1580320643 source:c:\users\hp\desktop\projetc\bulltricker 5.0\src\main.c
+	"pieces.h"
+
+1580290334 source:c:\users\hp\desktop\projetc\bulltricker 5.0\src\o.c
+	"pieces.h"
+
+1580317820 source:c:\users\hp\desktop\projetc\bulltricker 5.0\src\pion.c
+	"pieces.h"
+
+1580305828 source:g:\projetc\bulltricker 5.0\src\board.c
+	"pieces.h"
+
+1580312458 g:\projetc\bulltricker 5.0\src\pieces.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+
+1578662284 source:g:\projetc\bulltricker 5.0\src\dame.c
+
+1580317154 source:g:\projetc\bulltricker 5.0\src\graphique.c
+	"pieces.h"
+
+1580286928 source:g:\projetc\bulltricker 5.0\src\king.c
+	"pieces.h"
+
+1580317044 source:g:\projetc\bulltricker 5.0\src\main.c
+	"pieces.h"
+
+1580286736 source:g:\projetc\bulltricker 5.0\src\o.c
+	"pieces.h"
+
+1580314222 source:g:\projetc\bulltricker 5.0\src\pion.c
+	"pieces.h"
+
